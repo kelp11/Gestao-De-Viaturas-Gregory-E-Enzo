@@ -6,4 +6,5 @@ Enzo Felipe Scottini Fuchter e Gregory Dolzan.
 
 Vá em Wiki para ver o diagrama de classe do programa Astah.
 
-<img width="1110" height="740" alt="AR" src="https://github.com/user-attachments/assets/5d7c1cc6-5f78-4516-af7a-7a7718f60318" />
+<img width="1264" height="843" alt="Gemini_Generated_Image_qcvky4qcvky4qcvk" src="https://github.com/user-attachments/assets/9c5345f2-e7d8-4370-a711-08d8728c5ac6" />
+
